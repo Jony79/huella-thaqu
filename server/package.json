@@ -4,10 +4,7 @@
   "type": "module",
   "scripts": {
     "dev": "node --watch src/index.js",
-    "start": "node src/index.js",
-    "db:migrate": "node src/cli/migrate-schema.js",
-    "db:seed-catalog": "node src/cli/seed-catalog.js",
-    "db:seed-nomina": "node src/cli/seed-nomina.js"
+    "start": "node src/index.js"
   },
   "dependencies": {
     "bcryptjs": "^3.0.2",

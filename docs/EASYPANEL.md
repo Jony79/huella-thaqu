@@ -1,25 +1,19 @@
 # Despliegue EasyPanel — Huella Thaqu
 
-El contenedor **solo corre la app**. No migra ni siembra la base al arrancar.
+El contenedor **solo corre la app**. No toca la base al arrancar.
 
-## 1. Crear la base (una vez)
+## 1. Crear la base (admin Postgres)
 
-En el Postgres de EasyPanel:
-
-```sql
-CREATE DATABASE huella_thaqu;
+```bash
+psql "$ADMIN_DATABASE_URL" -f scripts/sql/01-create-database.sql
 ```
-
-O: `scripts/easypanel-init-db.sql`
 
 ## 2. Servicio Web
 
-- Source: `Jony79/huella-thaqu`, branch `main`
-- Builder: **Dockerfile** (raíz)
+- Repo: `Jony79/huella-thaqu`, branch `main`
+- Builder: Dockerfile
 - Puerto: `3000`
-- Volumen: `/srv/uploads` (avatars)
-
-### Variables
+- Volumen: `/srv/uploads`
 
 | Variable | Notas |
 |----------|--------|
@@ -27,27 +21,31 @@ O: `scripts/easypanel-init-db.sql`
 | `JWT_SECRET` | secreto largo |
 | `PUBLIC_URL` | URL pública HTTPS |
 | `PORT` | `3000` |
-| `ADMIN_SECRET` | alta de DNI por API |
-| `UPLOADS_DIR` | `/srv/uploads` (opcional) |
+| `ADMIN_SECRET` | alta DNI por API |
+| `UPLOADS_DIR` | `/srv/uploads` |
 
-## 3. Scripts de base (manuales, desde el shell del contenedor)
+## 3. Scripts SQL de inicialización
 
-Correr **después** del primer deploy, o cuando cambie el esquema / nómina / catálogo:
+Correr contra `huella_thaqu` (en orden), **una vez** o cuando actualices datos:
 
 ```bash
-# 1) Esquema / migraciones estructurales
-node src/cli/migrate-schema.js
-
-# 2) Catálogo de áreas y fichas (content/areas.json)
-node src/cli/seed-catalog.js
-
-# 3) Padrón de personas (material/Nomina) — no crea cuentas login
-node src/cli/seed-nomina.js
+psql "$DATABASE_URL" -f scripts/sql/02-schema.sql
+psql "$DATABASE_URL" -f scripts/sql/03-catalog.sql
+psql "$DATABASE_URL" -f scripts/sql/04-nomina.sql
 ```
 
-Orden recomendado la primera vez: **migrate → catalog → nomina**.
+| Archivo | Qué hace |
+|---------|----------|
+| `01-create-database.sql` | `CREATE DATABASE` |
+| `02-schema.sql` | Tablas / esquema |
+| `03-catalog.sql` | Áreas, fichas y actividades |
+| `04-nomina.sql` | Personas del padrón (sin cuentas login) |
 
-Las cuentas (alias/contraseña) las crea cada persona al registrarse; la nómina solo habilita el DNI.
+Si cambiás `content/areas.json` o `material/Nomina/`, regenerá 03/04:
+
+```bash
+node scripts/generate-sql-seeds.mjs
+```
 
 ## 4. Verificar
 
@@ -57,9 +55,11 @@ curl https://TU_DOMINIO/api/health
 
 ## 5. Local
 
-```bash
-docker compose up --build -d
-docker compose exec web node src/cli/migrate-schema.js
-docker compose exec web node src/cli/seed-catalog.js
-docker compose exec web node src/cli/seed-nomina.js
+Con Postgres en el puerto `5433` (`docker compose up --build -d`):
+
+```powershell
+$env:PGPASSWORD='thaQu_local'
+psql -h localhost -p 5433 -U thaQu -d huella_thaqu -f scripts/sql/02-schema.sql
+psql -h localhost -p 5433 -U thaQu -d huella_thaqu -f scripts/sql/03-catalog.sql
+psql -h localhost -p 5433 -U thaQu -d huella_thaqu -f scripts/sql/04-nomina.sql
 ```

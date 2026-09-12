@@ -6,29 +6,32 @@ PWA para protagonistas de la etapa **Caminante** (Scouts de Argentina).
 
 ```bash
 docker compose up --build -d
-docker compose exec web node src/cli/migrate-schema.js
-docker compose exec web node src/cli/seed-catalog.js
-docker compose exec web node src/cli/seed-nomina.js
+```
+
+Inicializar la base (scripts SQL, en orden):
+
+```bash
+$env:PGPASSWORD='thaQu_local'
+psql -h localhost -p 5433 -U thaQu -d huella_thaqu -f scripts/sql/02-schema.sql
+psql -h localhost -p 5433 -U thaQu -d huella_thaqu -f scripts/sql/03-catalog.sql
+psql -h localhost -p 5433 -U thaQu -d huella_thaqu -f scripts/sql/04-nomina.sql
 ```
 
 Abrí [http://localhost:3000](http://localhost:3000).
 
-El proceso `web` **solo sirve la app**. Esquema, catálogo y nómina se aplican con los scripts de arriba (no al deploy).
-
-- **Nómina:** DNI + nombre (+ tipo educador). Sin cuentas previas.
-- **Registro:** alias + contraseña la primera vez.
-- Smoke: `node scripts/smoke-stages.mjs`
+La app **no** migra ni siembra la DB al arrancar.
 
 ## EasyPanel
 
 Ver [`docs/EASYPANEL.md`](docs/EASYPANEL.md).
 
-## Scripts de base
+## Scripts SQL
 
-| Script | Qué hace |
-|--------|----------|
-| `node src/cli/migrate-schema.js` | Crea/actualiza tablas |
-| `node src/cli/seed-catalog.js` | Áreas, fichas y actividades |
-| `node src/cli/seed-nomina.js` | Personas del padrón |
+| Archivo | Uso |
+|---------|-----|
+| `scripts/sql/01-create-database.sql` | Crear la base |
+| `scripts/sql/02-schema.sql` | Esquema |
+| `scripts/sql/03-catalog.sql` | Catálogo (fichas) |
+| `scripts/sql/04-nomina.sql` | Padrón de personas |
 
-También: `scripts/easypanel-init-db.sql` (solo `CREATE DATABASE`).
+Regenerar 03/04 desde fuentes: `node scripts/generate-sql-seeds.mjs`
