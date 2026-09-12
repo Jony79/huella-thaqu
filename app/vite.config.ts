@@ -7,7 +7,7 @@ export default defineConfig({
     react(),
     VitePWA({
       registerType: "autoUpdate",
-      includeAssets: ["favicon.svg", "insignias/*", "icons/*", "insignias/completa.png"],
+      includeAssets: ["favicon.webp", "insignias/*", "icons/*"],
       manifest: {
         name: "Huella Thaqu",
         short_name: "Thaqu",
@@ -18,8 +18,8 @@ export default defineConfig({
         theme_color: "#3db7e4",
         lang: "es-AR",
         icons: [
-          { src: "/icons/icon.svg", sizes: "any", type: "image/svg+xml", purpose: "any" },
-          { src: "/icons/icon.svg", sizes: "any", type: "image/svg+xml", purpose: "maskable" },
+          { src: "/favicon.webp", sizes: "any", type: "image/webp", purpose: "any" },
+          { src: "/favicon.webp", sizes: "any", type: "image/webp", purpose: "maskable" },
         ],
       },
       workbox: {
