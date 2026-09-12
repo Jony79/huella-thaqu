@@ -1,0 +1,40 @@
+Dni	Nombre
+50331442	Adris Demo, Lucia Nur
+50029796	Alonso Arrigo, Santiago
+50628640	Aramayo Grasso, Ramiro Nicolas
+50419351	Arrieta, Guadalupe
+50627426	Barcelona Caparros, Alina Milagros
+50421073	Barcelona, Victoria
+50591968	Barrionuevo Manchento, Ignacio
+50745956	Basualdo Díaz, Francisco
+49557886	Beltrán, Julieta Muriel
+50629778	Bilic Gudiño, Emma
+48534121	Bordon, Pablo Martín Miguel
+50630843	Brandan Altamirano, Martina Dora
+50635512	Brusco, Maria Guadalupe
+48599220	Bustos, Agustina
+49078029	Carrizo, Ignacio Leonel
+48531833	Constabel, Pia
+51297691	Cuello, Morena
+50329225	Curetti, Maximiliano Luis
+48669957	Di Lello, Lucia
+48723024	Epifano, Juliana
+49406348	Garay, Francisco Ernesto
+49952508	Gorosito Del Olmo, Agustina
+49460915	Hayden, Mia
+50626919	Layús, Anna Sofía
+50327992	Layus, Eva
+52228172	Layus, Julia
+48533803	Lupiañez Baya, Valentina
+50937105	Monti, Valentin Gabriel
+52158590	Morales Marcolini, Julián
+51363201	Moreno Perinetti, Bernardita
+50863284	Nigro, Marcos Joaquín
+50462675	Noguera Dovis, Joaquin Andres
+50630974	OROME, Valentina Milagros
+50936150	Ponce, Héctor Lautaro
+50419385	Reynoso, Santiago
+50628683	Rocchiccioli Glorioso, Joaquín Santiago
+49497136	Rodríguez Della Puppa, Matías
+50629862	Rojo, Santiago
+50419964	Ruggeri, Thiago Ismael

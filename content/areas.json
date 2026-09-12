@@ -1,0 +1,1296 @@
+{
+  "version": 2,
+  "areas": [
+    {
+      "id": "salud-bienestar",
+      "name": "Salud y bienestar",
+      "color": "#1d4e89",
+      "topics": [
+        {
+          "id": "salud-bienestar-01",
+          "title": "1. Adopto y promuevo hábitos de alimentación e higiene saludables",
+          "body": "Adopto y promuevo hábitos de alimentación e higiene saludables\n\nPreguntas orientadoras:\n• ¿Por qué debe importarme lo que como? ¿Cuáles son los beneficios de mantener una alimentación equilibrada?\n• ¿Cuál es la importancia de aprender a cocinar? ¿Quién puede ayudarme en esto?\n• ¿Tengo hábitos que pueden afectar negativamente a mi salud? ¿Qué cambios, aunque sean pequeños, puedo hacer en mi rutina diaria para mejorar mis hábitos de alimentación e higiene?\n• ¿Por qué es importante la higiene personal y la de los lugares en donde habito?",
+          "activities": [
+            {
+              "id": "salud-bienestar-01-a1",
+              "title": "Mantengo el ambiente limpio y ordenado, en mi hogar, en mi espacio de reunión con el equipo, en mis actividades al aire libre y en todos los entornos donde habito."
+            },
+            {
+              "id": "salud-bienestar-01-a8",
+              "title": "Asumo la responsabilidad de la cocina en un campamento, investigando recetas y adecuándolas a los gustos o restricciones alimenticias de mi equipo."
+            },
+            {
+              "id": "salud-bienestar-01-a2",
+              "title": "Leo las etiquetas de los alimentos y tomo decisiones informadas consultando fuentes validadas sobre los productos que consumo para evitar enfermedades y fomentar la salud."
+            },
+            {
+              "id": "salud-bienestar-01-a3",
+              "title": "Tengo hábitos de higiene personal diaria."
+            },
+            {
+              "id": "salud-bienestar-01-a4",
+              "title": "Colaboro en mi hogar en la preparación de comidas para mi familia."
+            },
+            {
+              "id": "salud-bienestar-01-a5",
+              "title": "Identifico aquellos hábitos que pueden afectar negativamente mi salud y los evito."
+            },
+            {
+              "id": "salud-bienestar-01-a6",
+              "title": "Organizo un menú para un campamento para mi equipo o Comunidad Caminante, considerando aspectos tales como: una dieta equilibrada y acorde a las actividades, la época del año y el costo de los ingredientes."
+            },
+            {
+              "id": "salud-bienestar-01-a7",
+              "title": "Sostengo una alimentación equilibrada que incluya variedad de alimentos con recetas saludables y evito saltearme comidas."
+            }
+          ]
+        },
+        {
+          "id": "salud-bienestar-02",
+          "title": "2. Expreso mis emociones entendiendo cómo me afectan a mí e influyen en mi entorno",
+          "body": "Expreso mis emociones entendiendo cómo me afectan a mí e influyen en mi entorno\n\nPreguntas orientadoras:\n• siento que puedo expresar y canalizar mis emociones?\n• ¿Busco ayuda cuando la necesito? ¿A quiénes recurro\n• cuando necesito ayuda?\n• mi equipo y de mi Comunidad Caminante? ¿Qué ayuda\n• necesito para poder hacerlo? ¿De quién o quiénes?\n• ¿Qué hago cuando siento mucha presión o estrés?\n• ¿Tengo alguna técnica o estrategia?",
+          "activities": [
+            {
+              "id": "salud-bienestar-02-a1",
+              "title": "Busco actividades saludables y recreativas donde canalizar las emociones (a través del arte, música, deporte y cultura) para compartir con mi comunidad."
+            },
+            {
+              "id": "salud-bienestar-02-a2",
+              "title": "Promuevo la comunicación abierta y honesta en las relaciones personales de los entornos en los que participo, creando un ambiente seguro para expresar emociones."
+            },
+            {
+              "id": "salud-bienestar-02-a3",
+              "title": "Practico técnicas de relajación, como la respiración profunda y la meditación, para gestionar el estrés y las emociones intensas."
+            },
+            {
+              "id": "salud-bienestar-02-a4",
+              "title": "En caso de necesitarlo, busco ayuda en mis educadoras, educadores, familia, amistades y profesionales."
+            },
+            {
+              "id": "salud-bienestar-02-a5",
+              "title": "Escucho activamente a las demás personas, validando sus sentimientos, evitando juzgar o minimizar sus experiencias emocionales."
+            }
+          ]
+        },
+        {
+          "id": "salud-bienestar-03",
+          "title": "3. Adopto una mirada crítica sobre las imágenes y mensajes que los medios de comunicación y las redes sociales nos muestran acerca de los cuerpos y las apariencias.",
+          "body": "Adopto una mirada crítica sobre las imágenes y mensajes que los medios de comunicación y las redes sociales nos muestran acerca de los cuerpos y las apariencias.\n\nPreguntas orientadoras:\n• medios de comunicación? ¿Por qué creo que existen\n• esos estereotipos?\n• autoestima? ¿Qué cosas hago cuando me pasa eso?\n• ¿Cómo puedo ayudar a otras personas?\n• personas?\n• ¿Qué actividades puedo hacer con mi equipo o comunidad relacionadas con estos temas?",
+          "activities": [
+            {
+              "id": "salud-bienestar-03-a1",
+              "title": "Reflexiono sobre mis propias creencias y percepciones sobre los cuerpos y las apariencias."
+            },
+            {
+              "id": "salud-bienestar-03-a2",
+              "title": "Realizo una campaña en redes contra estereotipos o sobre el amor propio y cuidado del cuerpo."
+            },
+            {
+              "id": "salud-bienestar-03-a3",
+              "title": "Converso con mis amistades sobre el tipo de imágenes, fotos y contenidos que publicamos y compartimos en nuestras propias redes sociales."
+            },
+            {
+              "id": "salud-bienestar-03-a4",
+              "title": "Identifico cuando tengo baja autoestima, buscando y generando espacios de apoyo."
+            }
+          ]
+        },
+        {
+          "id": "salud-bienestar-04",
+          "title": "4. Acepto mi cuerpo tal y como es, sin compararlo con el de las demás personas, entendiendo que es único y valioso.",
+          "body": "Acepto mi cuerpo tal y como es, sin compararlo con el de las demás personas, entendiendo que es único y valioso.\n\nPreguntas orientadoras:\n• ¿Cuáles son las principales cualidades de mi cuerpo?\n• ¿Celebro cuando logro objetivos personales relacionados al deporte, actividad física o rendimiento?\n• pueden afectarlas?\n• ¿Qué no puede hacer mi cuerpo? ¿Cómo aprendí a\n• compensar la falta de ese sentido o habilidad motriz?\n• ¿Conozco qué es la belleza hegemónica? ¿Qué pienso de\n• esas ideas?",
+          "activities": [
+            {
+              "id": "salud-bienestar-04-a1",
+              "title": "Identifico las cualidades de mi cuerpo, aprendiendo a ser amable conmigo mismo/a, celebrando mis logros y trabajando en lo que quiero mejorar."
+            },
+            {
+              "id": "salud-bienestar-04-a2",
+              "title": "Participo en una actividad en la que identificamos imágenes y mensajes sobre los cuerpos y las apariencias en los medios de comunicación."
+            },
+            {
+              "id": "salud-bienestar-04-a3",
+              "title": "Junto a mi equipo organizo charlas sobre cómo nos influyen las distintas ideas respecto a los cuerpos y cómo afectan nuestra autoestima."
+            }
+          ]
+        },
+        {
+          "id": "salud-bienestar-05",
+          "title": "5. Respeto y promuevo el respeto sobre la diversidad de identidades y géneros, sin prejuicios ni discriminación.",
+          "body": "Respeto y promuevo el respeto sobre la diversidad de identidades y géneros, sin prejuicios ni discriminación.\n\nPreguntas orientadoras:\n• orientación y diversidad? ¿Con quien puedo corroborar la\n• información con la que cuento? ¿Quién puede brindarme\n• información correcta sobre estos conceptos?\n• ¿Pesencié alguna situación en la que alguien sufre discriminación a causa de la identidad de género? ¿Cómo me\n• sentí al respecto? ¿Qué acciones tomé en ese momento?\n• ¿Sufro o sufrí algún tipo de discriminación? ¿Por qué\n• pienso que suceden estas cosas?\n• estos temas puedo realizar con mi equipo o mi comunidad?",
+          "activities": [
+            {
+              "id": "salud-bienestar-05-a1",
+              "title": "Me informo y realizo una charla o debate con mi comunidad sobre identidad de género y diversidades."
+            },
+            {
+              "id": "salud-bienestar-05-a2",
+              "title": "Participo de acciones, descubiertas o proyectos en donde se promueve el respeto por la diversidad de identidades y géneros."
+            },
+            {
+              "id": "salud-bienestar-05-a3",
+              "title": "Intervengo en situaciones donde alguien sufre discriminación."
+            }
+          ]
+        },
+        {
+          "id": "salud-bienestar-06",
+          "title": "6. Comprendo que mi sexualidad es una parte importante de mi vida individual y junto a otras personas.",
+          "body": "Comprendo que mi sexualidad es una parte importante de mi vida individual y junto a otras personas.\n\nPreguntas orientadoras:\n• preocupan? ¿A quién recurro para buscar información?\n• ¿Qué significa aceptar mi sexualidad? ¿Cuáles fueron\n• momento? ¿Cuáles son los aspectos positivos y desafíos\n• de explorar y comprender mi propia sexualidad?\n• personas?",
+          "activities": [
+            {
+              "id": "salud-bienestar-06-a1",
+              "title": "Exploro y conozco mi cuerpo, mis preferencias, placeres y lo que me satisface."
+            },
+            {
+              "id": "salud-bienestar-06-a2",
+              "title": "No presupongo la sexualidad de las personas."
+            },
+            {
+              "id": "salud-bienestar-06-a3",
+              "title": "Acepto mi sexualidad como una parte natural y válida de mí."
+            }
+          ]
+        },
+        {
+          "id": "salud-bienestar-07",
+          "title": "7. Me informo y tomo decisiones responsables sobre mi salud sexual, cuidando de mí y de las demás personas, para disfrutar de relaciones sanas y seguras.",
+          "body": "Me informo y tomo decisiones responsables sobre mi salud sexual, cuidando de mí y de las demás personas, para disfrutar de relaciones sanas y seguras.\n\nPreguntas orientadoras:\n• transmisión sexual? ¿Estoy seguro/a que es información\n• confiable y no solo mitos y tradiciones?\n• temas? ¿A quién puedo recurrir?\n• caminante? Si no es así, y tenemos inconvenientes para hablarlos: ¿Qué cosas puedo hacer o proponer para que suceda?\n• rodean?",
+          "activities": [
+            {
+              "id": "salud-bienestar-07-a1",
+              "title": "Junto a mi equipo, participamos de un taller de educación sexual integral (ESI) con un especialista."
+            },
+            {
+              "id": "salud-bienestar-07-a2",
+              "title": "Utilizo las herramientas necesarias (buzones anónimos, juegos, aplicaciones y actividades) para hablar de los temas que nos incomoden o nos den vergüenza de tratar en la comunidad."
+            },
+            {
+              "id": "salud-bienestar-07-a3",
+              "title": "Actualizo frecuentemente mi información sobre métodos anticonceptivos y sobre prevención de enfermedades de transmisión sexual (ETS) y soy consciente sobre dónde conseguir materiales y recursos."
+            }
+          ]
+        },
+        {
+          "id": "salud-bienestar-08",
+          "title": "8. Valoro el diálogo y respeto mutuo para mantener relaciones de confianza y afecto",
+          "body": "Valoro el diálogo y respeto mutuo para mantener relaciones de confianza y afecto\n\nPreguntas orientadoras:\n• ¿Cómo es mi relación con mi familia? ¿Deseo\n• mejorar la relación? ¿Qué debería hacer?\n• ¿Escuché hablar del “No es no”?\n• ¿Qué comprendo de ello?\n• emociones, lo que siento y lo que me gusta? ¿Qué puedo\n• hacer para que esto suceda? ¿A quién puedo acudir?\n• ¿Sé de qué se trata la escucha activa?",
+          "activities": [
+            {
+              "id": "salud-bienestar-08-a1",
+              "title": "Fomento el diálogo y escucha activa con mis afectos, expresando mis pensamientos, gustos, emociones y límites."
+            },
+            {
+              "id": "salud-bienestar-08-a2",
+              "title": "Mantengo relaciones responsables afectivamente."
+            },
+            {
+              "id": "salud-bienestar-08-a3",
+              "title": "Busco una relación de comprensión y afecto con mi familia, promoviendo una actitud de diálogo."
+            },
+            {
+              "id": "salud-bienestar-08-a4",
+              "title": "Aprendo y comparto: No es no."
+            }
+          ]
+        },
+        {
+          "id": "salud-bienestar-09",
+          "title": "9. Sé a dónde recurrir para proteger mis derechos sexuales y reproductivos obteniendo los recursos necesarios para vivir mi sexualidad con responsabilidad",
+          "body": "Sé a dónde recurrir para proteger mis derechos sexuales y reproductivos obteniendo los recursos necesarios para vivir mi sexualidad con responsabilidad\n\nPreguntas orientadoras:\n• reproductivos?¿Por qué es importante conocerlos?\n• sexuales y reproductivos?\n• con mi desarrollo sexual?\n• ¿Qué actividades puedo hacer con mi equipo o Comunidad para mejorar mi información sobre estos temas?",
+          "activities": [
+            {
+              "id": "salud-bienestar-09-a1",
+              "title": "Realizo una descubierta sobre las instituciones de promoción y defensa de los derechos sobre salud sexual."
+            },
+            {
+              "id": "salud-bienestar-09-a2",
+              "title": "Me informo sobre las implicancias del embarazo adolescente."
+            },
+            {
+              "id": "salud-bienestar-09-a3",
+              "title": "Consulto a profesionales sobre el desarrollo de mi sexualidad y comparto información referida al acceso a la salud."
+            }
+          ]
+        },
+        {
+          "id": "salud-bienestar-10",
+          "title": "10. Me involucro en actividades físicas y deportivas como parte fundamental de mi bienestar, explorando mi potencial y desafiándome a mí mismo/a.",
+          "body": "Me involucro en actividades físicas y deportivas como parte fundamental de mi bienestar, explorando mi potencial y desafiándome a mí mismo/a.\n\nPreguntas orientadoras:\n• ¿Qué deportes o actividad física me interesan?\n• mi equipo o Comunidad?\n• mejorar? ¿Qué objetivos me propongo al respecto? ¿Qué\n• cosas debería hacer para alcanzar esos objetivos? ¿Necesito\n• ayuda para esto? ¿A quién puedo recurrir?",
+          "activities": [
+            {
+              "id": "salud-bienestar-10-a1",
+              "title": "Exploro mi interés por los deportes y actividades físicas, practicándolas regularmente."
+            },
+            {
+              "id": "salud-bienestar-10-a2",
+              "title": "Acepto y comprendo los cambios físicos que suceden en mi cuerpo."
+            },
+            {
+              "id": "salud-bienestar-10-a3",
+              "title": "Reconozco y desarrollo mis capacidades físicas (fuerza, velocidad, resistencia, flexibilidad, ritmo, equilibrio)."
+            },
+            {
+              "id": "salud-bienestar-10-a4",
+              "title": "No sobre exijo a mi cuerpo."
+            },
+            {
+              "id": "salud-bienestar-10-a5",
+              "title": "Armo rutinas y planificación de ejercicios de manera consciente con apoyo de especialistas o profesionales."
+            },
+            {
+              "id": "salud-bienestar-10-a6",
+              "title": "Establezco objetivos relacionados a la actividad física o al deporte y registro los progresos, valorando el proceso y planificando cómo superarme."
+            }
+          ]
+        },
+        {
+          "id": "salud-bienestar-11",
+          "title": "11. Comparto actividades recreativas, deportivas y lúdicas, fomentando mi desarrollo social y emocional junto a mis amistades",
+          "body": "Comparto actividades recreativas, deportivas y lúdicas, fomentando mi desarrollo social y emocional junto a mis amistades\n\nPreguntas orientadoras:\n• ¿Cómo es mi grupo de amigos y amigas? ¿En qué\n• amistades o fortalecer los vínculos existentes?\n• ¿Tengo información sobre cómo organizar un rally caminante? ¿Dónde puedo encontrar información? ¿A quién\n• puedo recurrir para que me ayude?\n• comunidad caminante? ¿A quién puedo recurrir para que me\n• ayude?\n• scouts, rovers, etc)? ¿Cómo puedo organizar esto?\n• Qué cosas tengo que tener en cuenta?",
+          "activities": [
+            {
+              "id": "salud-bienestar-11-a1",
+              "title": "Genero y mantengo amistades."
+            },
+            {
+              "id": "salud-bienestar-11-a2",
+              "title": "Propongo actividades lúdicas y deportivas para realizar junto a mi equipo o comunidad."
+            },
+            {
+              "id": "salud-bienestar-11-a3",
+              "title": "Busco desafíos o aprendizajes para llevar adelante (por ejemplo, que todo mi equipo sepa nadar)."
+            },
+            {
+              "id": "salud-bienestar-11-a4",
+              "title": "Realizo una tutoría referida a un deporte, juego o actividad recreativa de mi conocimiento."
+            },
+            {
+              "id": "salud-bienestar-11-a5",
+              "title": "Por ejemplo: enseño juegos o deportes a la Manada o la Unidad Scout."
+            },
+            {
+              "id": "salud-bienestar-11-a6",
+              "title": "Invito a mis amigas y amigos a participar de un día de juegos con la comunidad."
+            },
+            {
+              "id": "salud-bienestar-11-a7",
+              "title": "Organizo un rally caminante con mi equipo o comunidad."
+            }
+          ]
+        },
+        {
+          "id": "salud-bienestar-12",
+          "title": "12. Tomo decisiones responsables evitando acciones que puedan poner en riesgo mi seguridad y bienestar, así como el de las personas que me rodean.",
+          "body": "Tomo decisiones responsables evitando acciones que puedan poner en riesgo mi seguridad y bienestar, así como el de las personas que me rodean.\n\nPreguntas orientadoras:\n• ¿Conozco las normas de seguridad de Scouts de Argentina para la realización de actividades y proyectos?\n• de mis decisiones? ¿Recurro a ayuda para esto?\n• íntimos en las redes?",
+          "activities": [
+            {
+              "id": "salud-bienestar-12-a1",
+              "title": "Elaboro estrategias apoyándome en mi Diario de Marcha para evaluar los pro y contra de mis opciones, tomando así la decisión que considero más adecuada."
+            },
+            {
+              "id": "salud-bienestar-12-a2",
+              "title": "Conozco y replico las normas de seguridad, convivencia y bienestar de mi entorno (por ejemplo, normas de tránsito o seguridad en línea)."
+            },
+            {
+              "id": "salud-bienestar-12-a3",
+              "title": "Identifico y comprendo el daño que puede realizarse desde las redes sociales y me informo sobre medidas para prevenir el ciberbullying, grooming, sexting y viralización de imágenes y contenidos íntimos."
+            },
+            {
+              "id": "salud-bienestar-12-a4",
+              "title": "Elaboro los informes de factibilidad de mis proyectos en los que tengo en cuenta los riesgos y actividades preventivas correspondientes."
+            },
+            {
+              "id": "salud-bienestar-12-a5",
+              "title": "Me responsabilizo de mis decisiones, siendo consecuente con mis acciones y aceptando las consecuencias."
+            }
+          ]
+        },
+        {
+          "id": "salud-bienestar-13",
+          "title": "13. Me informo y preparo para enfrentar situaciones de emergencia.",
+          "body": "Me informo y preparo para enfrentar situaciones de emergencia.\n\nPreguntas orientadoras:\n• ¿Por qué son importantes los simulacros de emergencias y los planes de riesgo y evacuación?\n• necesito tener? ¿Dónde puedo obtenerlos? ¿Dónde\n• buscar información? ¿Quién puede ayudarme con esto?\n• esta competencia?",
+          "activities": [
+            {
+              "id": "salud-bienestar-13-a1",
+              "title": "Realizo o participo en simulacros de emergencia y evacuación."
+            },
+            {
+              "id": "salud-bienestar-13-a2",
+              "title": "Conozco los planes de riesgo y evacuación de mi grupo scout y de los campamentos en los que participo."
+            },
+            {
+              "id": "salud-bienestar-13-a3",
+              "title": "Desarrollo conocimientos básicos de primeros auxilios: especialmente los procedimientos de reanimación cardiopulmonar."
+            },
+            {
+              "id": "salud-bienestar-13-a4",
+              "title": "Busco mantener la calma en situaciones de crisis."
+            },
+            {
+              "id": "salud-bienestar-13-a5",
+              "title": "Planifico las acciones que llevaremos adelante en caso de una emergencia, repartiendo roles de manera clara."
+            }
+          ]
+        },
+        {
+          "id": "salud-bienestar-14",
+          "title": "14. Conozco, construyo y promociono redes de apoyo y ayuda mutua junto a mis pares",
+          "body": "Conozco, construyo y promociono redes de apoyo y ayuda mutua junto a mis pares\n\nPreguntas orientadoras:\n• ¿En qué me apoya mi familia? ¿En qué considero\n• que yo soy apoyo para mi familia?\n• caminantes de otros grupos scouts? ¿A quién puedo\n• solicitar ayuda para esto?\n• soy yo quien los apoya? ¿Qué temas tengo confianza de\n• hablar con nadie más?",
+          "activities": [
+            {
+              "id": "salud-bienestar-14-a1",
+              "title": "Comprendo los encuentros scouts como espacios de intercambio y generación de redes de apoyo."
+            },
+            {
+              "id": "salud-bienestar-14-a2",
+              "title": "Participo de los espacios de evaluación de la progresión personal de mis compañeras y compañeros de equipo."
+            },
+            {
+              "id": "salud-bienestar-14-a3",
+              "title": "Valoro a mi familia como red de apoyo, contención y ayuda mutua."
+            },
+            {
+              "id": "salud-bienestar-14-a4",
+              "title": "Genero amigas y amigos, en quienes confío y podemos apoyarnos mutuamente."
+            },
+            {
+              "id": "salud-bienestar-14-a5",
+              "title": "Participo de encuentros, actividades y reuniones con scouts de otros grupos scouts."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "habilidades-vida",
+      "name": "Habilidades para la vida",
+      "color": "#c45c26",
+      "topics": [
+        {
+          "id": "habilidades-vida-36",
+          "title": "36. Trabajo en mi superación personal, enfocándome en mis intereses personales.",
+          "body": "Trabajo en mi superación personal, enfocándome en mis intereses personales.\n\nPreguntas orientadoras:\n• largo plazo? ¿Cómo puedo identificar aspectos en los\n• que me gustaría mejorar o crecer personalmente?\n• ¿Cómo evalúo mi progresión personal? ¿Comprendo los\n• desafíos de la etapa en la que me encuentro?\n• ¿Busco superarme a mí mismo?",
+          "activities": [
+            {
+              "id": "habilidades-vida-36-a1",
+              "title": "Confecciono mi Diario de Marcha y lo reviso con regularidad."
+            },
+            {
+              "id": "habilidades-vida-36-a2",
+              "title": "Propongo actividades, proyectos y descubiertas que me ayudan a cumplir las metas propuestas en mi Diario de Marcha."
+            },
+            {
+              "id": "habilidades-vida-36-a3",
+              "title": "Evalúo mi avance en mi progresión personal al menos una vez por ciclo de programa, teniendo en cuenta las metas que me propuse y los plazos que definí."
+            },
+            {
+              "id": "habilidades-vida-36-a4",
+              "title": "Identifico en las actividades y proyectos aquellos temas sobre los que deseo aprender y los aprendizajes que obtuve por mi participación."
+            },
+            {
+              "id": "habilidades-vida-36-a5",
+              "title": "Exploro las oportunidades que me ofrecen las insignias especiales para desarrollar aquellos temas que me interesan."
+            },
+            {
+              "id": "habilidades-vida-36-a6",
+              "title": "Desarrollo una tutoría en la que ayudo a una compañera o un compañero de la Comunidad Caminante en algún tema de su progresión personal."
+            },
+            {
+              "id": "habilidades-vida-36-a7",
+              "title": "Me propongo metas para ampliar mis conocimientos planteándome desafíos personales."
+            }
+          ]
+        },
+        {
+          "id": "habilidades-vida-37",
+          "title": "37. Investigo y desarrollo distintas habilidades y tecnologías que me permitan adquirir experiencias prácticas y útiles para mi vida.",
+          "body": "Investigo y desarrollo distintas habilidades y tecnologías que me permitan adquirir experiencias prácticas y útiles para mi vida.\n\nPreguntas orientadoras:\n• ¿Sobre qué temas me interesa aprender?\n• vida en general?\n• propongo? ¿A quién puedo solicitar ayuda para superar\n• estas dificultades?\n• para apoyar a otras personas o ser tutor/a?",
+          "activities": [
+            {
+              "id": "habilidades-vida-37-a1",
+              "title": "Identifico las habilidades y saberes que me serán útiles en el futuro profesional y busco potenciarlas."
+            },
+            {
+              "id": "habilidades-vida-37-a2",
+              "title": "Realizo cursos o talleres que me acerquen o posibiliten adquirir habilidades y/o competencias que me serán útiles en el mundo laboral (ejemplo: programación, inteligencia artificial, oficios manuales, etc.) Enseño una habilidad como tutor/a o llevo adelante un breve curso en un centro comunitario (informática, redacción de currículum, preparación de entrevistas de trabajo, etc.)."
+            },
+            {
+              "id": "habilidades-vida-37-a3",
+              "title": "Aprendo técnicas que me permitan resolver problemas y realizar arreglos en mi casa, en el grupo, en las actividades y proyectos, etc."
+            }
+          ]
+        },
+        {
+          "id": "habilidades-vida-38",
+          "title": "38. Afronto creativamente los desafíos y problemas que se me presentan y aporto soluciones innovadoras",
+          "body": "Afronto creativamente los desafíos y problemas que se me presentan y aporto soluciones innovadoras\n\nPreguntas orientadoras:\n• excursión o proyecto? ¿Propusimos alguna vez una lluvia\n• de ideas o distintos modelos para solucionarlos?\n• desafíos o problemas recientemente? ¿Qué estrategias\n• creativa?\n• las actividades o campamentos?",
+          "activities": [
+            {
+              "id": "habilidades-vida-38-a1",
+              "title": "Realizo o participo en una tutoría sobre ciencia, tecnología, ingeniería, arte y matemáticas (STEAM) Investigo sobre distintas formas de realizar lluvias de ideas y procesos creativos para resolver problemas."
+            },
+            {
+              "id": "habilidades-vida-38-a2",
+              "title": "Pongo en práctica lo aprendido para resolver un problema del equipo o comunidad."
+            },
+            {
+              "id": "habilidades-vida-38-a3",
+              "title": "Propongo ideas de actividades y proyectos para realizar con mi equipo o Comunidad Caminante."
+            },
+            {
+              "id": "habilidades-vida-38-a4",
+              "title": "Busco soluciones innovadoras para aplicar a los proyectos y actividades que realizamos."
+            },
+            {
+              "id": "habilidades-vida-38-a5",
+              "title": "Aplico tecnología para mejorar las condiciones de un campamento y contribuir a la sustentabilidad, por ejemplo: cocina solar, ducha solar, potabilizador de agua, etc."
+            }
+          ]
+        },
+        {
+          "id": "habilidades-vida-39",
+          "title": "39. Me informo, exploro y experimento sobre las distintas opciones dentro del mundo del trabajo en función a mis intereses.",
+          "body": "Me informo, exploro y experimento sobre las distintas opciones dentro del mundo del trabajo en función a mis intereses.\n\nPreguntas orientadoras:\n• en mi mismo? ¿Cuáles me gustaría tener\n• o desarrollar en la vida?\n• he planteado hasta ahora? ¿Cuáles son mis objetivos a\n• puedo trabajar hacia ellos?\n• ¿Qué me apasiona? Mis pasiones reales y verdaderas\n• ¿Hay alguna profesión que se relacione con esa pasión?",
+          "activities": [
+            {
+              "id": "habilidades-vida-39-a1",
+              "title": "Realizo una lista de mis habilidades, gustos e intereses y los relaciono con áreas de empleo."
+            },
+            {
+              "id": "habilidades-vida-39-a2",
+              "title": "Investigo sobre qué conocimientos son necesarios para las profesiones que llamaron mi atención."
+            },
+            {
+              "id": "habilidades-vida-39-a3",
+              "title": "Consulto a profesionales que trabajen en áreas que me interesan sobre su labor cotidiano y su experiencia como estudiante."
+            },
+            {
+              "id": "habilidades-vida-39-a4",
+              "title": "Utilizo recursos en línea (como sitios web, apps y plataformas de búsqueda de empleo) para investigar diferentes industrias, roles y oportunidades laborales (Tareas, oficios, profesiones)."
+            },
+            {
+              "id": "habilidades-vida-39-a5",
+              "title": "Realizo actividades sobre role play y simulacros de entrevistas laborales con mi equipo o comunidad."
+            },
+            {
+              "id": "habilidades-vida-39-a6",
+              "title": "Llevo adelante o participo de un proyecto del campo de acción vocación."
+            }
+          ]
+        },
+        {
+          "id": "habilidades-vida-40",
+          "title": "40. Motivo y oriento a otras personas a trabajar en conjunto para lograr objetivos comunes.",
+          "body": "Motivo y oriento a otras personas a trabajar en conjunto para lograr objetivos comunes.\n\nPreguntas orientadoras:\n• alcanzar objetivos comunes? ¿Cuáles son algunas de las\n• trabajar de manera individual?\n• ¿Qué roles asumí en mi equipo? ¿Recibo apoyo para\n• desempeñarlos cuando lo necesito? ¿A quién podría\n• pedirle ayuda? ¿Ofrezco mi ayuda al resto del equipo?\n• cada miembro del equipo? ¿Solemos reconocer y celebrar los logros y contribuciones individuales o colectivas\n• del equipo durante el proceso de trabajo en conjunto?",
+          "activities": [
+            {
+              "id": "habilidades-vida-40-a1",
+              "title": "Confecciono junto a mi comunidad un acuerdo de metas, objetivos claros y alcanzables para mejorar la convivencia."
+            },
+            {
+              "id": "habilidades-vida-40-a2",
+              "title": "Asumo responsabilidades y roles en mi equipo, en grupos de trabajo y en la Comunidad Caminante."
+            },
+            {
+              "id": "habilidades-vida-40-a3",
+              "title": "Asumo la responsabilidad de coordinar un grupo de trabajo durante un proyecto."
+            },
+            {
+              "id": "habilidades-vida-40-a4",
+              "title": "Realizo un proyecto en cualquiera de los campos de acción y tomo la responsabilidad de la delegación y seguimiento de tareas."
+            }
+          ]
+        },
+        {
+          "id": "habilidades-vida-41",
+          "title": "41. Apoyo a otras personas para colaborar en el desarrollo de su liderazgo.",
+          "body": "Apoyo a otras personas para colaborar en el desarrollo de su liderazgo.\n\nPreguntas orientadoras:\n• ¿Qué entiendo por liderazgo? ¿Cuáles son las\n• cualidades de un/a líder? ¿Cómo diferencio un liderazgo\n• positivo de uno negativo?\n• tanto como líder o como miembro de un equipo? ¿Cómo puedo\n• liderazgo de mis compañeras y compañeros?\n• compartir como inspiración?",
+          "activities": [
+            {
+              "id": "habilidades-vida-41-a1",
+              "title": "Uso la tutoría para ayudar a otras y otros a reforzar sus liderazgos y a desarrollar sus aptitudes."
+            },
+            {
+              "id": "habilidades-vida-41-a2",
+              "title": "Animo a los miembros de mi comunidad o equipo a realizar proyectos que debatan, se posicionen y fomenten el empoderamiento de niñas y mujeres."
+            },
+            {
+              "id": "habilidades-vida-41-a3",
+              "title": "Participo en talleres, cursos o campamentos de liderazgo y replico los aprendizajes en mi comunidad."
+            },
+            {
+              "id": "habilidades-vida-41-a4",
+              "title": "Con mi equipo evaluamos regularmente el desempeño de mis compañeras y compañeros en los distintos roles dentro del equipo."
+            },
+            {
+              "id": "habilidades-vida-41-a5",
+              "title": "Valoro la función del coordinador/a de equipo como esencial para llevar adelante al equipo y apoyo su trabajo."
+            },
+            {
+              "id": "habilidades-vida-41-a6",
+              "title": "Fomento el liderazgo rotativo y participativo, a diferencia del permanente y personalista."
+            }
+          ]
+        },
+        {
+          "id": "habilidades-vida-42",
+          "title": "42. Aplico técnicas y tecnologías disponibles en la vida cotidiana",
+          "body": "Aplico técnicas y tecnologías disponibles en la vida cotidiana\n\nPreguntas orientadoras:\n• conocido y aprendido? ¿Cómo puedo enseñar a otras\n• considero útiles en mi vida diaria?\n• aplicar? ¿Qué debo hacer para lograr esto?\n• actualmente utilizo en mi vida cotidiana?",
+          "activities": [
+            {
+              "id": "habilidades-vida-42-a1",
+              "title": "Conozco y aprendo a utilizar aplicaciones y programas informáticos, dominar herramientas de ofimática, gestión del tiempo, diseño, edición, entre otros."
+            },
+            {
+              "id": "habilidades-vida-42-a2",
+              "title": "Participo de cursos y talleres que me permitan adquirir habilidades y aprender sobre el uso de tecnología en mi vida diaria."
+            },
+            {
+              "id": "habilidades-vida-42-a3",
+              "title": "Conozco en profundidad los dispositivos que utilizo."
+            },
+            {
+              "id": "habilidades-vida-42-a4",
+              "title": "Aprendo a configurarlos y los adapto a mis necesidades."
+            },
+            {
+              "id": "habilidades-vida-42-a5",
+              "title": "Identifico problemas técnicos domésticos e investigo cómo resolverlos de manera autónoma, dentro de mis posibilidades."
+            }
+          ]
+        },
+        {
+          "id": "habilidades-vida-43",
+          "title": "43. Denuncio aquellas noticias que desinformen o sean falsas.",
+          "body": "Denuncio aquellas noticias que desinformen o sean falsas.\n\nPreguntas orientadoras:\n• con mayor frecuencia en mi vida diaria? ¿Me importa\n• las redes o que me comparte otra persona?\n• ¿Cómo es mi relación con las redes sociales? ¿Para qué\n• las utilizo? ¿Son mi fuente de información confiable?\n• proyectos, etc.? ¿Cómo lo hago?",
+          "activities": [
+            {
+              "id": "habilidades-vida-43-a1",
+              "title": "Utilizo las redes sociales para una investigación o descubierta sobre un tema a elección, evaluando la credibilidad de las fuentes de información, considero la autenticidad y la autoridad de la fuente."
+            },
+            {
+              "id": "habilidades-vida-43-a2",
+              "title": "Soy consciente del tiempo que utilizo el entorno digital y puedo limitarlo para que no me haga daño."
+            },
+            {
+              "id": "habilidades-vida-43-a3",
+              "title": "Programo tiempos límites diarios o recordatorios de descanso de ser necesarios."
+            },
+            {
+              "id": "habilidades-vida-43-a4",
+              "title": "Utilizo conscientemente los distintos canales informativos sobre temas actuales y de mi interés (portales, diarios en internet, redes sociales, servicios de mensajería) y valoro los recursos analógicos para adquirir conocimiento."
+            },
+            {
+              "id": "habilidades-vida-43-a5",
+              "title": "Explico a otras personas como encontrar fuentes de información de calidad y evaluar su fiabilidad, objetividad y actualidad."
+            },
+            {
+              "id": "habilidades-vida-43-a6",
+              "title": "Llevo adelante un proyecto del campo de acción arte y cultura relacionadas a las fuentes de información artísticas, populares, ancestrales y patrimoniales de mi comunidad local."
+            }
+          ]
+        },
+        {
+          "id": "habilidades-vida-44",
+          "title": "44. Planifico y administro responsablemente mis recursos, de forma ética.",
+          "body": "Planifico y administro responsablemente mis recursos, de forma ética.\n\nPreguntas orientadoras:\n• recursos en la vida diaria?\n• ¿Tengo problemas en la administración del dinero?\n• ¿Cómo identifico esto? ¿Qué puedo hacer al respecto?\n• ¿Cuáles son los principios éticos que guían mis decisiones sobre el uso de los recursos?\n• administración de los recursos en mi vida?\n• ¿Cuánta importancia le doy a los recursos?",
+          "activities": [
+            {
+              "id": "habilidades-vida-44-a1",
+              "title": "Armo una planificación semanal o mensual para administrar mi dinero (ingresos, ahorros y gastos)."
+            },
+            {
+              "id": "habilidades-vida-44-a2",
+              "title": "Incorporo incluso aquellos servicios que utilizo pero no son mi responsabilidad (internet, luz, ropa, entre otros)."
+            },
+            {
+              "id": "habilidades-vida-44-a3",
+              "title": "Conozco y aprendo a usar las entidades financieras (apps, bancos, billeteras virtuales) que puedo utilizar."
+            },
+            {
+              "id": "habilidades-vida-44-a4",
+              "title": "Realizo acciones para solventar, en parte, mis actividades personales."
+            },
+            {
+              "id": "habilidades-vida-44-a5",
+              "title": "Me responsabilizo por la administración de los recursos económicos del equipo o de mi Comunidad al menos por un ciclo de programa, asegurando el uso eficiente de los recursos económicos y materiales."
+            },
+            {
+              "id": "habilidades-vida-44-a6",
+              "title": "Propongo ideas para el financiamiento de los proyectos de la Comunidad."
+            },
+            {
+              "id": "habilidades-vida-44-a7",
+              "title": "Uso mi dinero de manera responsable."
+            },
+            {
+              "id": "habilidades-vida-44-a8",
+              "title": "Comprendo el peligro del uso inconsciente del dinero en apps, juegos o apuestas en red y esquemas de negocios piramidales."
+            }
+          ]
+        },
+        {
+          "id": "habilidades-vida-45",
+          "title": "45. Establezco prioridades en las tareas administrando el uso del tiempo y los recursos disponibles para lograr los objetivos.",
+          "body": "Establezco prioridades en las tareas administrando el uso del tiempo y los recursos disponibles para lograr los objetivos.\n\nPreguntas orientadoras:\n• tiempo? ¿Quién o quiénes pueden ayudarme con esto?\n• ¿Cómo organizo mi tiempo? ¿Qué herramientas\n• responsabilidades?\n• ¿Cómo defino las prioridades en mi vida? ¿Qué estrategias utilizo para evitar la procrastinación y mantener el\n• enfoque en mis objetivos?",
+          "activities": [
+            {
+              "id": "habilidades-vida-45-a1",
+              "title": "Desarrollo al menos un proyecto en alguno de los campos de acción propuestos para la rama utilizando la metodología SMART (o similares) para identificar objetivos claros, específicos y medibles para un tiempo determinado."
+            },
+            {
+              "id": "habilidades-vida-45-a2",
+              "title": "Analizo estrategias de gestión del tiempo (como el método Pomodoro, principio de Pareto, listas de tareas, calendarios o aplicaciones) para administrar mis horarios y dividir los objetivos en tareas más pequeñas y alcanzables."
+            },
+            {
+              "id": "habilidades-vida-45-a3",
+              "title": "Participo activamente en la organización del calendario anual de actividades o la planificación del ciclo de programa."
+            },
+            {
+              "id": "habilidades-vida-45-a4",
+              "title": "Llevo adelante juegos o competencias (postas, concurso de nudos y amarres, concurso de armado de fuegos o claves, entre otros) donde la gestión del tiempo sea esencial para llevar adelante la actividad."
+            }
+          ]
+        },
+        {
+          "id": "habilidades-vida-46",
+          "title": "46. Encuentro momentos para descansar, distenderme, compartir con mis amistades y disfrutar de mi tiempo libre.",
+          "body": "Encuentro momentos para descansar, distenderme, compartir con mis amistades y disfrutar de mi tiempo libre.\n\nPreguntas orientadoras:\n• en mi tiempo libre?\n• ¿Qué siento cuando estoy estresada/o, ansiosa/o?\n• dedico tiempo para mi mismo/a y para mis hobbies?\n• descanso y recreación en mi vida diaria? ¿Qué actividades al aire libre son las que más me gustan?",
+          "activities": [
+            {
+              "id": "habilidades-vida-46-a1",
+              "title": "Organizo mi tiempo para realizar actividades recreativas, de interés personal o momentos de desconexión."
+            },
+            {
+              "id": "habilidades-vida-46-a2",
+              "title": "No le quito importancia al estrés o la ansiedad, prestando atención a los síntomas y mensajes que mi cuerpo presenta."
+            },
+            {
+              "id": "habilidades-vida-46-a3",
+              "title": "Propongo salidas y excursiones a espacios naturales, acordando tiempos de descanso y de apreciación de la naturaleza y el aire libre."
+            }
+          ]
+        },
+        {
+          "id": "habilidades-vida-47",
+          "title": "47. Actúo de manera resiliente ante las dificultades, buscando la superación personal y colectiva.",
+          "body": "Actúo de manera resiliente ante las dificultades, buscando la superación personal y colectiva.\n\nPreguntas orientadoras:\n• manera las dificultades y problemas?\n• ¿Cómo procedo usualmente ante las dificultades? ¿Reviso\n• las causas de algo que salió mal? ¿Cuál es mi fuente de\n• con desafíos difíciles?\n• importantes que enfrenté en mi vida hasta ahora? ¿Cómo\n• superando esas situaciones?",
+          "activities": [
+            {
+              "id": "habilidades-vida-47-a1",
+              "title": "Establezco metas en mi Diario de Marcha para aceptar los problemas y las dificultades como parte natural de mi crecimiento personal."
+            },
+            {
+              "id": "habilidades-vida-47-a2",
+              "title": "Pido ayuda o busco apoyo en mi familia, amistades o profesionales cuando es necesario."
+            },
+            {
+              "id": "habilidades-vida-47-a3",
+              "title": "Valoro el espacio de revisión del Diario de Marcha para buscar consejos entre mis pares (miembros del equipo) y mis educadoras y educadores."
+            },
+            {
+              "id": "habilidades-vida-47-a4",
+              "title": "Realizo evaluaciones y acepto ser evaluado por las actividades que realizamos, aportando comentarios constructivos y recibiendo oportunidades para mejorar y crecer."
+            }
+          ]
+        },
+        {
+          "id": "habilidades-vida-48",
+          "title": "48. Desarrollo habilidades para comunicarme de forma efectiva y respetuosa, influyendo positivamente en mi entorno y en la sociedad en general.",
+          "body": "Desarrollo habilidades para comunicarme de forma efectiva y respetuosa, influyendo positivamente en mi entorno y en la sociedad en general.\n\nPreguntas orientadoras:\n• ¿Tengo dificultades para lograr una buena comunicación?\n• ¿Qué tengo en cuenta para lograr una buena comunicación?\n• superar las dificultades? ¿Por qué es importante participar y recibir evaluaciones de las cosas que hago con mi\n• equipo o individualmente?\n• comprendida/o y escuchada/o? ¿Hago esfuerzos\n• en ese sentido?\n• mis puntos de vista e ideas? ¿Qué tipo de dificultad\n• encuentro? ¿Alguien puede ayudarme a superar esto?",
+          "activities": [
+            {
+              "id": "habilidades-vida-48-a1",
+              "title": "Modero al menos una asamblea de mi Comunidad haciendo valer y respetar todas las opiniones, promoviendo la escucha activa."
+            },
+            {
+              "id": "habilidades-vida-48-a2",
+              "title": "Investigo sobre qué habilidades son necesarias para comunicarme de manera efectiva y las pongo en práctica."
+            },
+            {
+              "id": "habilidades-vida-48-a3",
+              "title": "Valoro los órganos de gobierno y el rol de representante juvenil como espacio de aprendizaje sobre la comunicación asertiva e influencia positiva en la toma de decisiones."
+            },
+            {
+              "id": "habilidades-vida-48-a4",
+              "title": "Participo en actividades o proyectos que prioricen la comunicación afectiva en debates, charlas, presentaciones, asambleas, etc."
+            }
+          ]
+        },
+        {
+          "id": "habilidades-vida-49",
+          "title": "49. Utilizo diferentes herramientas y tecnologías de comunicación para llegar a un público más amplio y diverso, promoviendo el diálogo y la colaboración entre las personas.",
+          "body": "Utilizo diferentes herramientas y tecnologías de comunicación para llegar a un público más amplio y diverso, promoviendo el diálogo y la colaboración entre las personas.\n\nPreguntas orientadoras:\n• me gustaría aprender a utilizar?\n• ¿Qué ideas, pensamientos, proyectos o creaciones artísticas deseo compartir? ¿Con quienes desearía\n• compartirlas y para qué?",
+          "activities": [
+            {
+              "id": "habilidades-vida-49-a1",
+              "title": "Organizo o participo de encuentros o actividades donde se manifiesten inquietudes, aspiraciones y creaciones artísticas de mi Comunidad."
+            },
+            {
+              "id": "habilidades-vida-49-a2",
+              "title": "Utilizo nuevas y diferentes tecnologías y herramientas de comunicación para conectarme con más personas y promover el diálogo."
+            },
+            {
+              "id": "habilidades-vida-49-a3",
+              "title": "Expreso en mi Diario de Marcha como será mi aprendizaje para comunicar mis opiniones y pensamientos de manera clara, respetuosa y constructiva."
+            },
+            {
+              "id": "habilidades-vida-49-a4",
+              "title": "Utilizo diferentes plataformas en línea (redes sociales, plataforma de videos y streaming o aplicaciones) para compartir pensamientos, proyectos y creaciones artísticas."
+            },
+            {
+              "id": "habilidades-vida-49-a5",
+              "title": "Participo del JOTA-JOTI (Jamboree en el aire - Jamboree en Internet), un evento para comunicarse y compartir información con scouts de todo el mundo utilizando la tecnología de radiofrecuencia como también del internet"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ambiente",
+      "name": "Ambiente",
+      "color": "#2d6a4f",
+      "topics": [
+        {
+          "id": "ambiente-29",
+          "title": "29. Adopto un estilo de vida responsable y sostenible en mi consumo y producción",
+          "body": "Adopto un estilo de vida responsable y sostenible en mi consumo y producción\n\nPreguntas orientadoras:\n• producción sostenible?\n• sostenible? ¿Qué prácticas sostenibles identifico en mi\n• vida diaria?\n• responsable y sostenible en tu consumo y producción? ¿Qué\n• Comunidad para tener una conducta sostenible?",
+          "activities": [
+            {
+              "id": "ambiente-29-a1",
+              "title": "Realizo una descubierta en mi comunidad local sobre problemáticas ambientales relacionadas a los desechos y consumos de plásticos."
+            },
+            {
+              "id": "ambiente-29-a2",
+              "title": "Propongo, organizo o participo al menos de un proyecto en el campo de acción ambiente que contribuya a la sostenibilidad y sustentabilidad en alianza con una organización."
+            },
+            {
+              "id": "ambiente-29-a3",
+              "title": "Incorporo hábitos responsables con el ambiente."
+            },
+            {
+              "id": "ambiente-29-a4",
+              "title": "Le doy un nuevo uso a la ropa y artículos que ya no utilizo."
+            },
+            {
+              "id": "ambiente-29-a5",
+              "title": "Evito plásticos de un solo uso en actividades, campamentos o salidas."
+            },
+            {
+              "id": "ambiente-29-a6",
+              "title": "Propongo el consumo sostenible en mi grupo scout, hogar o espacios donde participo (por ejemplo: productos y alimentos locales y de estación) Utilizo aplicaciones digitales para calcular el consumo energético o encontrar productos locales y ecológicos."
+            }
+          ]
+        },
+        {
+          "id": "ambiente-30",
+          "title": "30. Me posiciono de manera crítica y responsable sobre las decisiones con impacto ambiental y realizo acciones al respecto.",
+          "body": "Me posiciono de manera crítica y responsable sobre las decisiones con impacto ambiental y realizo acciones al respecto.\n\nPreguntas orientadoras:\n• ¿Qué entiendo por justicia ambiental? ¿Cómo puedo\n• fomentarla? ¿Mediante qué acciones?\n• Comunidad Caminante pueda trabajar en colaboración?\n• ambiental negativo? ¿Existen posibilidades de cambiar\n• esas acciones negativas?",
+          "activities": [
+            {
+              "id": "ambiente-30-a1",
+              "title": "Realizo una descubierta sobre las principales causas de los problemas ambientales del lugar en donde vivo."
+            },
+            {
+              "id": "ambiente-30-a2",
+              "title": "Realizo al menos alguno de los desafíos ambientales que propone Scouts de Argentina y la Organización Mundial del Movimiento Scout."
+            },
+            {
+              "id": "ambiente-30-a3",
+              "title": "Propongo y realizo campañas de concientización y sensibilización sobre el cuidado del ambiente exponiendo las causas de los problemas."
+            }
+          ]
+        },
+        {
+          "id": "ambiente-31",
+          "title": "31. Soy consciente sobre la conexión e interdependencia entre todos los seres vivos, esforzándome por vivir en armonía",
+          "body": "Soy consciente sobre la conexión e interdependencia entre todos los seres vivos, esforzándome por vivir en armonía\n\nPreguntas orientadoras:\n• ¿Qué son los saberes ancestrales?\n• de la interdependencia de los seres vivos?\n• cotidiana? ¿Qué cosas deberíamos tener en cuenta para\n• incorporar estos conocimientos de antepasados?",
+          "activities": [
+            {
+              "id": "ambiente-31-a1",
+              "title": "Investigo sobre conocimientos o saberes ancestrales de las culturas originarias referidos a aspectos ecológicos, artesanales climáticos, medicinales, artístico, de casa, pesqueros, etc."
+            },
+            {
+              "id": "ambiente-31-a2",
+              "title": "Pongo en práctica en campamentos, excursiones y en mi vida cotidiana los conocimientos ancestrales para el cuidado de nuestra madre tierra."
+            },
+            {
+              "id": "ambiente-31-a3",
+              "title": "Discuto los impactos ambientales y éticos de las elecciones alimentarias y cómo reducir el consumo de productos de origen animal."
+            },
+            {
+              "id": "ambiente-31-a4",
+              "title": "Organizo actividades y talleres sobre construcción de refugios naturales, elaboración de medicamentos a base de plantas o la creación de arte inspirado en la naturaleza."
+            }
+          ]
+        },
+        {
+          "id": "ambiente-32",
+          "title": "32. Entiendo que la Tierra es nuestra casa común y que tenemos la responsabilidad de protegerla para las generaciones presentes y futuras.",
+          "body": "Entiendo que la Tierra es nuestra casa común y que tenemos la responsabilidad de protegerla para las generaciones presentes y futuras.\n\nPreguntas orientadoras:\n• ¿Cómo podemos proteger la tierra? ¿Qué fallas\n• ambientales encuentro a mi alrededor?\n• próximas generaciones?\n• Scout para promover el cuidado de la casa común? ¿Y en\n• mi casa, escuela o lugares que habito?",
+          "activities": [
+            {
+              "id": "ambiente-32-a1",
+              "title": "Investigo sobre las fallas de cuidado ambiental en mi grupo scout y comunidad local y desarrollo actividades para reducirlas (por ejemplo, el uso o no de tachos diferenciados para los residuos)."
+            },
+            {
+              "id": "ambiente-32-a2",
+              "title": "Me involucro en iniciativas que fomenten la justicia ambiental, trabajando en colaboración para proteger nuestra casa común."
+            },
+            {
+              "id": "ambiente-32-a3",
+              "title": "Realizo una de las iniciativas o desafíos ambientales que propone Scouts de Argentina o la Organización Mundial del Movimiento Scout."
+            }
+          ]
+        },
+        {
+          "id": "ambiente-33",
+          "title": "33. Descubro y valoro la belleza y diversidad de la naturaleza disfrutando de las aventuras que puedo vivir en ella.",
+          "body": "Descubro y valoro la belleza y diversidad de la naturaleza disfrutando de las aventuras que puedo vivir en ella.\n\nPreguntas orientadoras:\n• hacer con mi equipo? ¿Qué lugares naturales me gustaría conocer?\n• vivo? ¿Quién puede ayudarme a mejorar mi conocimiento sobre la biodiversidad de la región?\n• años? ¿Qué aspectos se mantienen y cuáles se fueron\n• perdiendo?",
+          "activities": [
+            {
+              "id": "ambiente-33-a1",
+              "title": "Propongo, organizo y participo al menos en un proyecto del campo de acción viaje y aventura con mi equipo donde acampemos en un lugar nuevo."
+            },
+            {
+              "id": "ambiente-33-a2",
+              "title": "Con mi equipo propongo y organizo un Rally de descubierta o actividad sobre biodiversidad autóctona, identificando las principales especies de flora y fauna de la región donde vivo."
+            },
+            {
+              "id": "ambiente-33-a3",
+              "title": "Realizo mi Raid de Desafío o Compromiso en un campamento donde me desenvuelvo de forma autónoma"
+            }
+          ]
+        },
+        {
+          "id": "ambiente-34",
+          "title": "34. Aprovecho toda oportunidad como un desafío para conectar con el mundo natural, cuidándolo y protegiéndolo.",
+          "body": "Aprovecho toda oportunidad como un desafío para conectar con el mundo natural, cuidándolo y protegiéndolo.\n\nPreguntas orientadoras:\n• sobre la vida aire libre que necesito? ¿Cómo puedo ayudar\n• a otras personas a aprender técnicas de vida al aire libre?\n• actividades cada vez más desafiantes, atractivas y seguras?\n• ¿Cuáles habilidades ya poseo y cuáles debo desarrollar?\n• a nuestras actividades al aire libre? ¿Tenemos actividades\n• de bajo impacto y contaminación?",
+          "activities": [
+            {
+              "id": "ambiente-34-a1",
+              "title": "Desarrollo habilidades de campismo en actividades y/o campamentos (tipos de carpas, armado correcto de las mismas, elección del terreno para acampar, preparación para situaciones de tormentas, cocina al aire libre, tratamiento y conservación de alimentos, orientación, etc.) Diseño y realizo construcciones prácticas y sustentables en los campamentos de equipo o Comunidad."
+            },
+            {
+              "id": "ambiente-34-a2",
+              "title": "Me propongo asumir el rol del cuidado del fuego en campamentos, investigando el uso de fuegos, tipos de leñas y la aplicación adecuada de cada tipo de fuego."
+            },
+            {
+              "id": "ambiente-34-a3",
+              "title": "Aplico técnicas de bajo impacto (no dejando huellas) en mis actividades al aire libre."
+            },
+            {
+              "id": "ambiente-34-a4",
+              "title": "Participo regularmente de salidas, excursiones y campamentos en los que aplicamos técnicas de armado de vivacs y refugios improvisados y cocina rústica o sin utensilios."
+            }
+          ]
+        },
+        {
+          "id": "ambiente-35",
+          "title": "35. Reconozco a la naturaleza como una fuente de bienestar para mí y de conexión con lo trascendente.",
+          "body": "Reconozco a la naturaleza como una fuente de bienestar para mí y de conexión con lo trascendente.\n\nPreguntas orientadoras:\n• no me agradan tanto? ¿Cuáles son esas cosas?\n• para la reflexión, la contemplación, la meditación, etc.?",
+          "activities": [
+            {
+              "id": "ambiente-35-a1",
+              "title": "Realizo un Rally con instancias de reflexión y conexión conmigo mismo, en un entorno natural."
+            },
+            {
+              "id": "ambiente-35-a2",
+              "title": "Valoro las oportunidades que me propone la naturaleza (la brisa del viento, la fuerza del agua, la luz del fuego, el contacto con la tierra) para realizar actividades de introspección y reflexión."
+            },
+            {
+              "id": "ambiente-35-a3",
+              "title": "Practico actividades como meditación, oración, yoga o técnicas de relajación en la naturaleza."
+            },
+            {
+              "id": "ambiente-35-a4",
+              "title": "Aprecio los momentos en que puedo disfrutar de la belleza y la serenidad del mundo natural y me esfuerzo por cultivar una relación armoniosa con él."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "paz-desarrollo",
+      "name": "Paz y desarrollo",
+      "color": "#6d3b7a",
+      "topics": [
+        {
+          "id": "paz-desarrollo-15",
+          "title": "15. Contribuyo pacíficamente a la resolución de conflictos evitando toda forma de intolerancia y violencia",
+          "body": "Contribuyo pacíficamente a la resolución de conflictos evitando toda forma de intolerancia y violencia\n\nPreguntas orientadoras:\n• respetuosa? ¿Hay alguien a quien actualmente me\n• gustaría pedirle perdón y no sé cómo hacerlo?\n• problemas? ¿Busco recursos o apoyo externo para\n• resolver conflictos de manera pacífica?\n• del Movimiento Scout? ¿A quién le puedo pedir ayuda\n• para conseguir más información?",
+          "activities": [
+            {
+              "id": "paz-desarrollo-15-a1",
+              "title": "Realizo al menos un desafío sobre paz y diálogo que propone Scouts de Argentina o la Organización Mundial del Movimiento Scout."
+            },
+            {
+              "id": "paz-desarrollo-15-a2",
+              "title": "Realizo o participo de un proyecto enmarcado en la paz."
+            },
+            {
+              "id": "paz-desarrollo-15-a3",
+              "title": "Puedo buscar sobre las dimensiones de la paz que reconoce el Movimiento Scout (personal, comunidad y global)."
+            },
+            {
+              "id": "paz-desarrollo-15-a4",
+              "title": "Aplico los 10 principios del diálogo que promueve el Movimiento Scout para la promoción de culturas de paz."
+            },
+            {
+              "id": "paz-desarrollo-15-a5",
+              "title": "Me involucro en la resolución de situaciones de intolerancia y violencia dentro de mis espacios (equipo, comunidad, familia) posicionándome a favor de la paz."
+            },
+            {
+              "id": "paz-desarrollo-15-a6",
+              "title": "Sé pedir perdón cuando corresponde."
+            }
+          ]
+        },
+        {
+          "id": "paz-desarrollo-16",
+          "title": "16. Valoro mi historia e identidad y promuevo la herencia cultural de mi comunidad y país (costumbres, leyendas, danzas, mitos, artesanías, tradiciones)",
+          "body": "Valoro mi historia e identidad y promuevo la herencia cultural de mi comunidad y país (costumbres, leyendas, danzas, mitos, artesanías, tradiciones)\n\nPreguntas orientadoras:\n• nuestra historia como país? ¿Cómo es mi participación\n• en celebraciones y ceremonias patrias?\n• ¿Cómo me defino a mí mismo/a? ¿Cómo se relaciona\n• con mi comunidad o cultura? ¿Puedo reconocer alguna\n• herencia cultural de mi familia?\n• nombre de mi equipo y comunidad? ¿Me siento representado por los valores que nos describen? ¿Puedo\n• reconstruir la historia de mi equipo o comunidad?",
+          "activities": [
+            {
+              "id": "paz-desarrollo-16-a1",
+              "title": "Realizo un rally de descubierta con el objeto de conocer las manifestaciones folclóricas: historias, leyendas, personajes típicos, recetas de cocina, fiestas populares, bailes y otras manifestaciones artísticas y culturales propias de las comunidades visitadas."
+            },
+            {
+              "id": "paz-desarrollo-16-a2",
+              "title": "Expreso mi afecto por los valores de mi cultura por medio de alguna habilidad artística (música, danza, relato, pintura, artesanías, etc.)."
+            },
+            {
+              "id": "paz-desarrollo-16-a3",
+              "title": "Concientizo y me movilizo para preservar y promover la cultura de mi comunidad."
+            },
+            {
+              "id": "paz-desarrollo-16-a4",
+              "title": "Realizo al menos alguno de los desafíos de desarrollo comunitario y patrimonio que propone Scouts de Argentina o la Organización Mundial del Movimiento Scouts."
+            },
+            {
+              "id": "paz-desarrollo-16-a5",
+              "title": "Participo en eventos artísticos y culturales que se organizan en mi comunidad."
+            },
+            {
+              "id": "paz-desarrollo-16-a6",
+              "title": "Hago propio el nombre de mi equipo, comunidad caminante y grupo scout."
+            },
+            {
+              "id": "paz-desarrollo-16-a7",
+              "title": "Conozco su historia y tradiciones."
+            },
+            {
+              "id": "paz-desarrollo-16-a8",
+              "title": "Me apropio de los símbolos patrios de mi país y participo respetuosamente de ceremonias y celebraciones patrias."
+            },
+            {
+              "id": "paz-desarrollo-16-a9",
+              "title": "Conozco y acepto la historia de mi familia y herencia cultural."
+            }
+          ]
+        },
+        {
+          "id": "paz-desarrollo-17",
+          "title": "17. Desarrollo estrategias para promover y difundir los Derechos Humanos.",
+          "body": "Desarrollo estrategias para promover y difundir los Derechos Humanos.\n\nPreguntas orientadoras:\n• nuestra historia como país? ¿Cómo es mi participación\n• en celebraciones y ceremonias patrias?\n• nuestra historia como país? ¿Cómo es mi participación\n• en celebraciones y ceremonias patrias?\n• nombre de mi equipo y comunidad? ¿Me siento representado por los valores que nos describen? ¿Puedo\n• reconstruir la historia de mi equipo o comunidad?\n• nombre de mi equipo y comunidad? ¿Me siento representado por los valores que nos describen? ¿Puedo\n• reconstruir la historia de mi equipo o comunidad?",
+          "activities": [
+            {
+              "id": "paz-desarrollo-17-a1",
+              "title": "Realizo un rally de descubierta para conocer los organismos de Derechos Humanos en mi comunidad local."
+            },
+            {
+              "id": "paz-desarrollo-17-a2",
+              "title": "Elijo, junto a mi equipo, al menos un Derecho Humano y llevamos adelante una actividad de promoción de ese derecho."
+            },
+            {
+              "id": "paz-desarrollo-17-a3",
+              "title": "Conozco mis Derechos."
+            },
+            {
+              "id": "paz-desarrollo-17-a4",
+              "title": "Observo y hago observar la Declaración de los niños, niñas y adolescentes; los Objetivos de Desarrollo Sostenible y aquellas leyes destinadas a proteger mis derechos."
+            },
+            {
+              "id": "paz-desarrollo-17-a5",
+              "title": "Utilizo herramientas como la Carta de comunidad o los foros y encuentros de juventudes para conversar sobre nuestros derechos a ser escuchados, a tener una identidad, al juego y a ser protegidos de la violencia."
+            },
+            {
+              "id": "paz-desarrollo-17-a6",
+              "title": "Denuncio vulneraciones de derechos utilizando los mecanismos apropiados de mi localidad y los propios de la asociación (Protocolos, teléfonos, organismos públicos y privados)."
+            }
+          ]
+        },
+        {
+          "id": "paz-desarrollo-18",
+          "title": "18. Ejercito plena y responsablemente mis derechos como ciudadano y los promuevo en todos los ámbitos en donde me desarrollo, con una mirada crítica de la realidad.",
+          "body": "Ejercito plena y responsablemente mis derechos como ciudadano y los promuevo en todos los ámbitos en donde me desarrollo, con una mirada crítica de la realidad.\n\nPreguntas orientadoras:\n• obligaciones como miembro de Scouts de Argentina?\n• ¿Quién puede ayudarme en esto? ¿Dónde obtengo\n• información confiable al respecto?\n• organismo de nuestra asociación? ¿Puedo yo asumir esa\n• responsabilidad? ¿Sé cómo hacerlo, sus responsabilidades y obligaciones?\n• Qué significa la política en mi vida y en la de mis compañeras y compañeros? ¿Me atrevo e intereso por participar\n• vida? ¿Dónde y cómo me informo antes de participar de",
+          "activities": [
+            {
+              "id": "paz-desarrollo-18-a1",
+              "title": "Participo en talleres, encuentros o experiencias relacionadas a mis derechos y obligaciones como ciudadano/a y como miembro de Scouts de Argentina."
+            },
+            {
+              "id": "paz-desarrollo-18-a2",
+              "title": "Realizo tutorías o genero actividades y debates sobre la democracia, las plataformas electorales y los espacios de participación."
+            },
+            {
+              "id": "paz-desarrollo-18-a3",
+              "title": "Participo activamente en la elaboración y revisión de la Carta de Comunidad Caminante."
+            },
+            {
+              "id": "paz-desarrollo-18-a4",
+              "title": "Acuerdo con las normas de convivencia de mi comunidad."
+            },
+            {
+              "id": "paz-desarrollo-18-a5",
+              "title": "Participo y promuevo la participación en las reuniones y órganos de gobierno de mi equipo y la Comunidad Caminante."
+            },
+            {
+              "id": "paz-desarrollo-18-a6",
+              "title": "Valoro la participación juvenil y la función de representante juvenil como experiencia de aprendizaje sobre la toma de decisiones y el consenso."
+            },
+            {
+              "id": "paz-desarrollo-18-a7",
+              "title": "Reconozco además distintos espacios de participación juvenil en las instituciones en las que participo (Por ejemplo, centro de estudiantes) Ejerzo mis votos de manera informada y consciente."
+            }
+          ]
+        },
+        {
+          "id": "paz-desarrollo-19",
+          "title": "19. Fomento ámbitos de participación democráticos, respetando las decisiones tomadas sin renunciar a mi derecho a luchar por su cambio.",
+          "body": "Fomento ámbitos de participación democráticos, respetando las decisiones tomadas sin renunciar a mi derecho a luchar por su cambio.\n\nPreguntas orientadoras:\n• elegido lo que esperaba?\n• podamos dar nuestra opinión y se respeten las ideas?\n• ¿Es una práctica habitual de mi equipo o comunidad?\n• equipo o mi comunidad para exponer mis ideas, defenderlas, brindar argumentos, etc.? ¿Utilizo los espacios\n• adecuados para ello?\n• nuestra historia como país? ¿Cómo es mi participación\n• en celebraciones y ceremonias patrias?",
+          "activities": [
+            {
+              "id": "paz-desarrollo-19-a1",
+              "title": "Respeto las decisiones tomadas democráticamente y, si no salió elegido aquello que esperaba, utilizo la experiencia como aprendizaje, regulando la frustración y colaborando positivamente."
+            },
+            {
+              "id": "paz-desarrollo-19-a2",
+              "title": "Me comprometo con las decisiones que tomamos, siendo consecuente con mis acciones."
+            },
+            {
+              "id": "paz-desarrollo-19-a3",
+              "title": "Trabajo en equipo y colaboro para tomar decisiones consensuadas."
+            },
+            {
+              "id": "paz-desarrollo-19-a4",
+              "title": "Defiendo mis convicciones de forma pacífica, sin imponer mi opinión ni faltar el respeto a las demás personas."
+            },
+            {
+              "id": "paz-desarrollo-19-a5",
+              "title": "Me comprometo con procesos democráticos para elegir las actividades y proyectos que realizaremos con nuestro equipo o comunidad caminante."
+            },
+            {
+              "id": "paz-desarrollo-19-a6",
+              "title": "Cuando tomamos decisiones, como en el Consejo de equipo, me aseguro de que todas las personas puedan dar su opinión y promuevo el respeto a las ideas."
+            }
+          ]
+        },
+        {
+          "id": "paz-desarrollo-20",
+          "title": "20. Defiendo colectivamente los Derechos de las infancias, juventudes y mujeres y promuevo acciones que contribuyan a garantizarlos.",
+          "body": "Defiendo colectivamente los Derechos de las infancias, juventudes y mujeres y promuevo acciones que contribuyan a garantizarlos.\n\nPreguntas orientadoras:\n• las infancias, juventudes y las mujeres?\n• juventudes y mujeres en el Grupos Scout? ¿Y en la\n• Asociación o en el lugar donde vivo?\n• de estos derechos? ¿Conozco los protocolos\n• adecuados para esto?",
+          "activities": [
+            {
+              "id": "paz-desarrollo-20-a1",
+              "title": "Realizo tutorías o genero actividades con mi equipo sobre los derechos de las infancias, juventudes y mujeres."
+            },
+            {
+              "id": "paz-desarrollo-20-a2",
+              "title": "Participo en iniciativas, proyectos y/u organizaciones que trabajan la promoción de Derechos Humanos, en particular lo de las infancias, adolescencias y mujeres."
+            },
+            {
+              "id": "paz-desarrollo-20-a3",
+              "title": "Realizo, junto a mi equipo, una presentación o recurso visual sobre los mecanismos de denuncia de vulneración de derechos."
+            },
+            {
+              "id": "paz-desarrollo-20-a4",
+              "title": "Utilizo mis redes personales o las de mi equipo, comunidad o grupo scout para participar en campañas a favor de los Derechos Humanos o denunciar su vulneración."
+            }
+          ]
+        },
+        {
+          "id": "paz-desarrollo-21",
+          "title": "21. Cuestiono mis prejuicios y estereotipos culturales entendiendo cómo estos influyen en las interacciones con otras personas.",
+          "body": "Cuestiono mis prejuicios y estereotipos culturales entendiendo cómo estos influyen en las interacciones con otras personas.\n\nPreguntas orientadoras:\n• vivo? ¿Y en la Comunidad Caminante y el Grupo Scout?\n• ¿Es importante cuestionar mis prejuicios y estereotipos?\n• ¿Por qué? ¿De dónde provienen estos prejuicios y cómo\n• han sido influenciados por mi entorno?\n• sexual? ¿Mi posición frente a la diversidad sexual y de\n• géneros es coherente con los valores del Movimiento?",
+          "activities": [
+            {
+              "id": "paz-desarrollo-21-a1",
+              "title": "Participo en iniciativas, proyectos u organizaciones que prevengan la discriminación y promuevan la igualdad."
+            },
+            {
+              "id": "paz-desarrollo-21-a2",
+              "title": "Alzo la voz y denuncio la discriminación utilizando los mecanismos correspondientes."
+            },
+            {
+              "id": "paz-desarrollo-21-a3",
+              "title": "No me callo ante los estereotipos de género, de edad o sociales."
+            },
+            {
+              "id": "paz-desarrollo-21-a4",
+              "title": "Realizo cursos y capacitaciones sobre cómo reconocer, prevenir y tomar acción frente a un comportamiento inapropiado."
+            },
+            {
+              "id": "paz-desarrollo-21-a5",
+              "title": "No asumo la identidad, sexualidad o nacionalidad de ninguna persona."
+            },
+            {
+              "id": "paz-desarrollo-21-a6",
+              "title": "Comprendo la diversidad sexual y de géneros, respetándola y denunciando la discriminación."
+            }
+          ]
+        },
+        {
+          "id": "paz-desarrollo-22",
+          "title": "22. Trabajo activamente para facilitar y promover la participación e inclusión de todas las personas en mis actividades",
+          "body": "Trabajo activamente para facilitar y promover la participación e inclusión de todas las personas en mis actividades\n\nPreguntas orientadoras:\n• sexual? ¿Mi posición frente a la diversidad sexual y de\n• géneros es coherente con los valores del Movimiento?\n• desigualdades? ¿Cuáles son algunas formas creativas en\n• actividades para promover la inclusión y la equidad?\n• organismo de nuestra asociación? ¿Puedo yo asumir esa\n• responsabilidad? ¿Sé cómo hacerlo, sus responsabilidades y obligaciones?",
+          "activities": [
+            {
+              "id": "paz-desarrollo-22-a1",
+              "title": "Evalúo, junto a mi equipo, si mi grupo scout y mi barrio son espacios inclusivos y equitativos, tanto para la diversidad como para la discapacidad."
+            },
+            {
+              "id": "paz-desarrollo-22-a2",
+              "title": "Realizo proyectos enmarcados en la reducción de desigualdades y promoción de la inclusión."
+            },
+            {
+              "id": "paz-desarrollo-22-a3",
+              "title": "Conozco las redes de apoyo que tiene mi comunidad local y Scouts de Argentina para la inclusión de personas con discapacidad."
+            }
+          ]
+        },
+        {
+          "id": "paz-desarrollo-23",
+          "title": "23. Me involucro de forma empática y activa, en acciones solidarias en la comunidad.",
+          "body": "Me involucro de forma empática y activa, en acciones solidarias en la comunidad.\n\nPreguntas orientadoras:\n• Sostenible (ODS)? ¿Qué actividades relacionadas con los\n• Comunidad Caminante?\n• de esto? ¿Qué acciones solidarias realizo día a día que\n• representen esta idea?\n• solidaridad, pero ¿qué significa la solidaridad para mí?",
+          "activities": [
+            {
+              "id": "paz-desarrollo-23-a1",
+              "title": "Realizo o participo en al menos un proyecto del campo de acción solidaridad con mi equipo."
+            },
+            {
+              "id": "paz-desarrollo-23-a2",
+              "title": "Elaboro propuestas de acción y actividades enmarcadas en los Objetivos de Desarrollo Sostenible (ODS)."
+            },
+            {
+              "id": "paz-desarrollo-23-a3",
+              "title": "Realizo al menos una acción solidaria en mis Raids."
+            },
+            {
+              "id": "paz-desarrollo-23-a4",
+              "title": "Organizo campañas de donación de sangre, alimentos, ropa, elementos de higiene y salud menstrual o aquellos que mi comunidad local necesite."
+            }
+          ]
+        },
+        {
+          "id": "paz-desarrollo-24",
+          "title": "24. Me preocupo por las personas que me rodean, sus necesidades y busco maneras de hacer una diferencia positiva en sus vidas",
+          "body": "Me preocupo por las personas que me rodean, sus necesidades y busco maneras de hacer una diferencia positiva en sus vidas\n\nPreguntas orientadoras:\n• personas me rodean (equipo, familia, Comunidad Caminante, amigas y amigos, etc.)? ¿Cómo demuestro que\n• estoy ahí para dar apoyo?\n• ¿Por qué es importante la buena acción? ¿Es una idea\n• que pasó de moda o sigue vigente?\n• sociales de mi comunidad? ¿Sobre qué problemas\n• suelo conversar con mi equipo y Comunidad Caminante?",
+          "activities": [
+            {
+              "id": "paz-desarrollo-24-a1",
+              "title": "Promuevo el debate en mi comunidad sobre los problemas sociales e injusticias detectadas."
+            },
+            {
+              "id": "paz-desarrollo-24-a2",
+              "title": "Valoro los espacios de conversación de los foros, encuentros de juventudes o asambleas para trabajar estas temáticas."
+            },
+            {
+              "id": "paz-desarrollo-24-a3",
+              "title": "Me intereso y empatizo con las necesidades y preocupaciones de las personas cercanas a mí."
+            },
+            {
+              "id": "paz-desarrollo-24-a4",
+              "title": "Le doy mi apoyo a mi equipo, comunidad y familia si lo necesitan."
+            },
+            {
+              "id": "paz-desarrollo-24-a5",
+              "title": "Utilizo los espacios de co-evaluación del Diario de Marcha para escuchar sobre las dificultades, preocupaciones y necesidades de las personas que integran mi equipo o comunidad."
+            },
+            {
+              "id": "paz-desarrollo-24-a6",
+              "title": "Busco realizar una buena acción diaria en mi hogar, escuela o cualquier espacio en el que participe."
+            }
+          ]
+        },
+        {
+          "id": "paz-desarrollo-25",
+          "title": "25. Realizo un Rally de descubierta en los que identifico y mapeo las situaciones problemáticas de mi comunidad local e investigo sus orígenes o causas.",
+          "body": "Realizo un Rally de descubierta en los que identifico y mapeo las situaciones problemáticas de mi comunidad local e investigo sus orígenes o causas.\n\nPreguntas orientadoras:\n• sociales del barrio y la ciudad?\n• ¿Me permito cuestionar o dudar de aquellas afirmaciones que considero verdaderas? ¿Qué evidencia o datos\n• respaldan mis opiniones?\n• puedo influir en ellas? ¿Qué puedo hacer para mantenerme informado/a y actualizado/a sobre los problemas\n• sociales y las iniciativas de cambio en curso?",
+          "activities": [
+            {
+              "id": "paz-desarrollo-25-a1",
+              "title": "Identifico y analizo los factores que contribuyen a la existencia de problemas sociales, desarrollando una actitud crítica, actuando de manera coherente y responsable en mi entorno."
+            },
+            {
+              "id": "paz-desarrollo-25-a2",
+              "title": "Discuto con mi equipo o Comunidad Caminante sobre los factores que contribuyen a la existencia de problemas sociales."
+            },
+            {
+              "id": "paz-desarrollo-25-a3",
+              "title": "Realizo al menos alguno de los desafíos sobre paz y desarrollo comunitario que propone Scouts de Argentina o la Organización Mundial del Movimiento Scout."
+            },
+            {
+              "id": "paz-desarrollo-25-a4",
+              "title": "Utilizo las herramientas de los foros o encuentros de juventudes para declarar o manifestar aquellas preocupaciones e intereses que tenemos como jóvenes."
+            }
+          ]
+        },
+        {
+          "id": "paz-desarrollo-26",
+          "title": "26. Me cuestiono sobre las posturas respecto al origen, la grandeza, belleza y misterios de todo lo que soy, somos y nos rodea.",
+          "body": "Me cuestiono sobre las posturas respecto al origen, la grandeza, belleza y misterios de todo lo que soy, somos y nos rodea.\n\nPreguntas orientadoras:\n• ¿Cuál es el sentido y el propósito de mi vida?\n• ¿Quién soy? ¿Por qué estoy aquí?\n• ¿Cuál es mi futuro?\n• ¿Qué define las diferencias entre el bien y el mal?\n• ¿Qué es lo correcto? ¿Por qué debo hacerlo?\n• ¿Por qué hay tanta maldad en el mundo?\n• ¿Cuál es mi herencia espiritual? ¿Cómo se manifiesta esa\n• herencia en mi vida?",
+          "activities": [
+            {
+              "id": "paz-desarrollo-26-a1",
+              "title": "Encuentro en los campamentos las oportunidades de reflexión y cuestionamiento, aprovechando los entornos naturales, fogones o espacios de relajación."
+            },
+            {
+              "id": "paz-desarrollo-26-a2",
+              "title": "Busco respuestas a mis grandes preguntas en diferentes opciones espirituales, religiosas o en las distintas creencias."
+            },
+            {
+              "id": "paz-desarrollo-26-a3",
+              "title": "Utilizo el Diario de Marcha para explorar lo invisible en mí, sobre quién soy, de dónde vengo y hacia dónde voy."
+            }
+          ]
+        },
+        {
+          "id": "paz-desarrollo-27",
+          "title": "27. Dialogo con las demás personas sobre lo que creo, promoviendo el entendimiento.",
+          "body": "Dialogo con las demás personas sobre lo que creo, promoviendo el entendimiento.\n\nPreguntas orientadoras:\n• entre personas que tienen diferentes creencias?\n• ¿Qué acciones o eventos promueven el diálogo interreligioso en mi grupo scout o comunidad?",
+          "activities": [
+            {
+              "id": "paz-desarrollo-27-a1",
+              "title": "Participo en proyectos y actividades que me permiten conocer, actuar y dialogar con jóvenes de diferentes opciones espirituales."
+            },
+            {
+              "id": "paz-desarrollo-27-a2",
+              "title": "Promuevo el diálogo, el entendimiento y la paz entre las personas."
+            },
+            {
+              "id": "paz-desarrollo-27-a3",
+              "title": "Realizo una descubierta sobre las opciones religiosas y espirituales presentes en mi comunidad."
+            },
+            {
+              "id": "paz-desarrollo-27-a4",
+              "title": "Realizo al menos uno de los desafíos sobre paz y diálogo que propone Scouts de Argentina o la Organización Mundial del Movimiento Scout."
+            }
+          ]
+        },
+        {
+          "id": "paz-desarrollo-28",
+          "title": "28. Reconozco cómo mis creencias, prioridades \\\u0003YDORUHV\u0003LQƮX\\HQ\u0003HQ\u0003PLV\u0003GHFLVLRQHV\u0003FRWLGLDQDV SDUD\u0003YLYLU\u0003GH\u0003PDQHUD\u0003DXWÄQWLFD\u0003\\\u0003FRKHUHQWH\u0003FRQ lo que creo y valoro",
+          "body": "Reconozco cómo mis creencias, prioridades \\\u0003YDORUHV\u0003LQƮX\\HQ\u0003HQ\u0003PLV\u0003GHFLVLRQHV\u0003FRWLGLDQDV SDUD\u0003YLYLU\u0003GH\u0003PDQHUD\u0003DXWÄQWLFD\u0003\\\u0003FRKHUHQWH\u0003FRQ lo que creo y valoro",
+          "activities": [
+            {
+              "id": "paz-desarrollo-28-a1",
+              "title": "5HFRQR]FR\u0003HO\u0003VLJQLƬFDGR\u0003GH\u0003OD\u0003/H\\\u00036FRXW\u0003\\\u0003ORV\u0003SULQFLSLRV\u0003HQ\u0003HVWD\u0003 HWDSD\u0003GH\u0003PL\u0003YLGD\u0011 )RUPXOR\u0003PL\u0003FRPSURPLVR\u0003FDPLQDQWH\u000f\u0003DGKLULHQGR\u0003YROXQWDULDPHQWH\u0003D\u0003ORV\u0003YDORUHV\u0003TXH\u0003HO\u00030RYLPLHQWR\u0003QRV\u0003SURSRQH\u0011\u0003 5HƮH[LRQR\u0003VREUH\u0003ORV\u0003YDORUHV\u0003GH\u0003OD\u00033URPHVD\u0003\\\u0003OD\u0003/H\\\u00036FRXW\u0003HQ\u0003PL\u0003 HTXLSR\u0003\\\u0003PL\u0003&RPXQLGDG\u0003&DPLQDQWH\u0011 ,QYHVWLJR\u0003VREUH\u0003DTXHOODV\u0003SHUVRQDV\u0003TXH\u0003FRQVLGHUR\u0003TXH\u0003VRQ\u0003 FRKHUHQWHV\u0003HQWUH\u0003VXV\u0003YDORUHV\u0003\\\u0003VX\u0003YLGD\u0003FRWLGLDQD\u0003\\\u0003FRPSDUWR\u0003HVWD\u0003 LQIRUPDFLÎQ\u0003FRQ\u0003PL\u0003HTXLSR\u0003\\\u0003FRPXQLGDG\u0011\u0003 8WLOL]R\u0003PL\u0003'LDULR\u0003GH\u00030DUFKD\u0003SDUD\u0003DQDOL]DU\u0003PLV\u0003DFFLRQHV\u0003EXVFDQGR\u0003 FRKHUHQFLD\u0003HQWUH\u0003OR\u0003TXH\u0003KDJR\u0003\\\u0003OR\u0003TXH\u0003FUHR\u0011"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

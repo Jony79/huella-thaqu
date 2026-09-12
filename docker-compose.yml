@@ -1,0 +1,36 @@
+services:
+  db:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_USER: thaQu
+      POSTGRES_PASSWORD: thaQu_local
+      POSTGRES_DB: huella_thaqu
+    ports:
+      - "5433:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U thaQu -d huella_thaqu"]
+      interval: 5s
+      timeout: 5s
+      retries: 12
+
+  web:
+    build: .
+    ports:
+      - "3000:3000"
+    environment:
+      DATABASE_URL: postgres://thaQu:thaQu_local@db:5432/huella_thaqu
+      JWT_SECRET: local-dev-secret-change-me
+      PUBLIC_URL: http://localhost:3000
+      PORT: 3000
+      ADMIN_SECRET: local-admin
+    depends_on:
+      db:
+        condition: service_healthy
+    volumes:
+      - uploads:/srv/uploads
+
+volumes:
+  pgdata:
+  uploads:

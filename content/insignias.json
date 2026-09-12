@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "layout": {
+    "top": "sur",
+    "right": "oeste",
+    "bottom": "norte",
+    "left": "este"
+  },
+  "insignias": [
+    {
+      "id": "norte",
+      "cardinal": "Norte",
+      "element": "Fuego",
+      "color": "rojo",
+      "place": "bottom",
+      "file": "norte.png"
+    },
+    {
+      "id": "sur",
+      "cardinal": "Sur",
+      "element": "Tierra",
+      "color": "verde",
+      "place": "top",
+      "file": "sur.png"
+    },
+    {
+      "id": "este",
+      "cardinal": "Este",
+      "element": "Agua",
+      "color": "azul",
+      "place": "left",
+      "file": "este.png"
+    },
+    {
+      "id": "oeste",
+      "cardinal": "Oeste",
+      "element": "Aire",
+      "color": "violeta",
+      "place": "right",
+      "file": "oeste.png"
+    }
+  ],
+  "stages": {
+    "0": "Integración (sin insignias)",
+    "1": "Etapa 1 (1 insignia, cualquiera)",
+    "2": "Etapa 2 (2 insignias)",
+    "3": "Etapa 3 (3 insignias)",
+    "4": "Etapa 4 (4 insignias)"
+  },
+  "rules": [
+    "Las insignias las otorga o quita el educador.",
+    "La etapa del protagonista = cantidad de insignias otorgadas.",
+    "En la PWA del protagonista, las otorgadas se ven a color; el resto en gris.",
+    "El protagonista elige cuál elemento usar de primera etapa (guía); en esta app el educador marca cuáles tiene."
+  ]
+}

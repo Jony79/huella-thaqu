@@ -1,0 +1,8 @@
+node_modules
+dist
+.git
+.env
+uploads
+app/dev-dist
+**/*.log
+material/pdfs/*.pdf
