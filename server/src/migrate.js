@@ -3,7 +3,6 @@ import { readFile } from "node:fs/promises";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 import { query } from "./db.js";
-import { seedNomina } from "./seedNomina.js";
 
 const here = dirname(fileURLToPath(import.meta.url));
 const catalogCandidates = [
@@ -152,7 +151,8 @@ async function migrateUserScopedToPerson(table, extraColumnsSql, selectExtra) {
   await query(`ALTER TABLE ${temp} RENAME TO ${table}`);
 }
 
-export async function migrate() {
+/** Solo esquema / migraciones estructurales. No toca nómina ni catálogo. */
+export async function migrateSchema() {
   const cols = await query(
     `SELECT column_name FROM information_schema.columns
      WHERE table_name = 'badge_awards' AND column_name = 'area_id'`,
@@ -236,8 +236,11 @@ export async function migrate() {
     );
   }
 
-  await seedNomina();
+  console.log("Esquema de base actualizado");
+}
 
+/** Carga / actualiza áreas, fichas y actividades desde content/areas.json. */
+export async function seedCatalog() {
   const catalogPath = catalogCandidates.find((path) => existsSync(path));
   if (!catalogPath) {
     throw new Error("No se encontró content/areas.json");
@@ -313,4 +316,12 @@ export async function migrate() {
      ON CONFLICT (key) DO UPDATE SET value = EXCLUDED.value`,
     [String(catalog.version)],
   );
+
+  console.log(`Catálogo sembrado (versión ${catalog.version})`);
+}
+
+/** @deprecated Preferí migrateSchema + seedCatalog por separado. */
+export async function migrate() {
+  await migrateSchema();
+  await seedCatalog();
 }

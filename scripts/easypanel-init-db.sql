@@ -1,9 +1,8 @@
--- Crear base para Huella Thaqu en el Postgres de EasyPanel.
--- Ejecutar conectado como superusuario / dueño del cluster.
--- Ajustá el OWNER si tu usuario de app no es el default.
+-- Crear solo la base vacía (EasyPanel / Postgres admin).
+-- NO crea tablas ni datos: eso va con los CLI del contenedor.
 
 CREATE DATABASE huella_thaqu;
 
--- Opcional: usuario dedicado (descomentar y adaptar)
+-- Opcional:
 -- CREATE USER huella_app WITH PASSWORD 'CAMBIAR';
 -- GRANT ALL PRIVILEGES ON DATABASE huella_thaqu TO huella_app;

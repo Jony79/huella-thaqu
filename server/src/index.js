@@ -4,7 +4,6 @@ import { fileURLToPath } from "node:url";
 import cors from "cors";
 import express from "express";
 import { pool } from "./db.js";
-import { migrate } from "./migrate.js";
 import { registerRoutes } from "./routes.js";
 
 const here = dirname(fileURLToPath(import.meta.url));
@@ -31,16 +30,8 @@ if (existsSync(publicDir)) {
 
 const port = Number(process.env.PORT || 3000);
 
-async function start() {
-  await migrate();
-  app.listen(port, "0.0.0.0", () => {
-    console.log(`Huella Thaqu en puerto ${port}`);
-  });
-}
-
-start().catch((error) => {
-  console.error(error);
-  process.exit(1);
+app.listen(port, "0.0.0.0", () => {
+  console.log(`Huella Thaqu en puerto ${port}`);
 });
 
 process.on("SIGTERM", async () => {
